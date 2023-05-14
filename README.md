@@ -1,6 +1,6 @@
 # Taches
 Short description:
-Taches, shedule yourself tasks, messages and programs to be run when ou xant or when Windows starts.
+Taches, shedule yourself tasks, messages and programs to be run when you want or when Windows starts.
 
 Long description:
 Managing programs started when you start your computer is doing what Windows can not do, specifically:
