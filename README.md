@@ -12,6 +12,7 @@ Managing programs started when you start your computer is doing what Windows can
 -if necessary, give the user the choice to launch them or not,
 
 -wait for the end of the execution of a program before launching another one or, on the contrary, launch one without waiting for the previous one to be finished.
+
 In short, it's really all master of these Windows session start programs. That's what Taches does.
 
 There are probably several tasks that you have to perform regularly on your computer, such as backing up, cleaning your disk, or scan it for malwares. For example, you may have decided to start a backup program every three days, but without taking into account the days when the computer was stopped - and that's what changes everything - because you went on weekend or vacation. Indeed, there was nothing to save those days. How to do this thing automatically with your computer?
