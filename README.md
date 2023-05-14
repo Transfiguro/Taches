@@ -4,9 +4,13 @@ Taches, shedule yourself tasks, messages and programs to be run when you want or
 
 Long description:
 Managing programs started when you start your computer is doing what Windows can not do, specifically:
+
 -control the order in which they launch,
+
 -control their frequency of execution (they are not all obliged to run at each start),
+
 -if necessary, give the user the choice to launch them or not,
+
 -wait for the end of the execution of a program before launching another one or, on the contrary, launch one without waiting for the previous one to be finished.
 In short, it's really all master of these Windows session start programs. That's what Taches does.
 
