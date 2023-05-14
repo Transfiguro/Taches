@@ -41,4 +41,4 @@ The benefits of Taches are:
 -You can play sounds.
 Taches runs silently and tests each line to see whether to launch it or not.
 
-Visit http://transfiguro.free.fr/pc/jtaches/jtaches.php
+Visit my personal website at http://transfiguro.free.fr/pc/jtaches/jtaches.php
