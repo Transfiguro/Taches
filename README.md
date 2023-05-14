@@ -40,3 +40,5 @@ The benefits of Taches are:
 -You can use absolute or relative paths. This allows the program to run correctly with portable devices, when the drive letter can change.
 -You can play sounds.
 Taches runs silently and tests each line to see whether to launch it or not.
+
+Visit http://transfiguro.free.fr/pc/jtaches/jtaches.php
